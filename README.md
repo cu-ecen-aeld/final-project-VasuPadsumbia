@@ -6,7 +6,7 @@ This repository contains the individual submission for the Embedded Linux final 
 
 Our station reads data from a BME280 sensor (temperature, humidity, pressure) and publishes the measurements to a cloud dashboard over Wi‑Fi. The device uses a Buildroot‑based Linux image customized for the Raspberry Pi Zero 2 W and includes Python scripts for sensor interfacing, an MQTT client for data transmission, and optional local web configuration through a Flask API.
 
-The detailed project plan — including goals, system architecture, hardware specifications, open‑source components, sprint schedule, and team roles — is documented in our shared Project Overview wiki page: [👉 Project Overview]([https://github.com/VasuPadsumbia/Smart-Weather-Station/wiki])
+The detailed project plan — including goals, system architecture, hardware specifications, open‑source components, sprint schedule, and team roles — is documented in our shared Project Overview wiki page: [👉 Project Overview](https://github.com/VasuPadsumbia/Smart-Weather-Station/wiki)
 
 Please refer to the wiki for design diagrams and the full schedule.
 
